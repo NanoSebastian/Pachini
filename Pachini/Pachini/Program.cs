@@ -13,18 +13,23 @@ namespace Pachini
             Console.WriteLine("Семья Пачини приветствует вас!");
             Console.WriteLine("Нажмите 1, чтобы узнать имя Дона, нажмите 2 чтобы узнать имя Консильери");
             int p = Int32.Parse(Console.ReadLine());
-            if (p==1)
-            {
-                Console.WriteLine("Артем");
-            }
-            else if (p == 2)
-            {
-                Console.WriteLine("Левон");
-            }
-            else
-            {
-                Console.WriteLine("Олень");
-            }
+      if(p == 1)
+      {
+        Console.WriteLine("Артем");
+      }
+      else if(p == 2)
+      {
+        Console.WriteLine("Левон");
+      }
+      else if(p == 3)
+      {
+        Console.WriteLine("Челен"); 
+      }
+
+      else
+      {
+        Console.WriteLine("Олень");
+      }
             Console.WriteLine();
             Console.WriteLine("Это новый коммит");
             Console.ReadKey();
