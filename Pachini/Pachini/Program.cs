@@ -25,6 +25,8 @@ namespace Pachini
             {
                 Console.WriteLine("Олень");
             }
+            Console.WriteLine();
+            Console.WriteLine("Это новый коммит");
             Console.ReadKey();
         }
     }
