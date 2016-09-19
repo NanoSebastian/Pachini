@@ -1,0 +1,6 @@
+C:\Users\radmo\Desktop\FirstCummit\Pachini\Pachini\bin\Debug\Pachini.exe.config
+C:\Users\radmo\Desktop\FirstCummit\Pachini\Pachini\bin\Debug\Pachini.exe
+C:\Users\radmo\Desktop\FirstCummit\Pachini\Pachini\bin\Debug\Pachini.pdb
+C:\Users\radmo\Desktop\FirstCummit\Pachini\Pachini\obj\Debug\Pachini.csprojResolveAssemblyReference.cache
+C:\Users\radmo\Desktop\FirstCummit\Pachini\Pachini\obj\Debug\Pachini.exe
+C:\Users\radmo\Desktop\FirstCummit\Pachini\Pachini\obj\Debug\Pachini.pdb
