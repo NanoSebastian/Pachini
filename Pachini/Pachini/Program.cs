@@ -23,7 +23,9 @@ namespace Pachini
       }
       else if(p == 3)
       {
-        Console.WriteLine("Челен"); 
+        Console.WriteLine("Челен");
+        Console.WriteLine("Челен");
+
       }
 
       else
